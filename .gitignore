@@ -1,0 +1,93 @@
+# Environment and Credentials
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.tsv
+*.txt
+*.gz
+*.zip
+
+# Logs
+*.log
+output/logs/
+
+# Project specific
+output_files/
+output/
+!output/.gitkeep
+geocoding/
+exceptions/
+imported/
+names/
+.VSCodeCounter
+
+# Temporary files
+*.tmp
+*.temp
+output/temp/
+
+# Archives
+output/archives/
+
+# Keep the directory structure but ignore contents
+output/notifications/*
+
+# Old versioned notebooks (archived, not needed in repo)
+notification_2025*.ipynb
+
+# R scripts
+*.R
+
+# Office/binary files
+*.docx
+*.xlsx
+*.pdf
+*.png
+
+# Claude AI folder
+.claude/

@@ -18,7 +18,7 @@ Note:
     Project names must be lowercase for consistent lookups.
 
 Author: Fang Chen
-Date: October 2025
+Date: April 2026
 """
 
 projectsMap = {
@@ -72,7 +72,7 @@ projectsMap = {
     "pgp": "",
     "prgp": "",
     "psyche": "PRJEB71705",
-    "r2k": "",
+    "r2k": "PRJNA1399476",
     "metainvert": "PRJNA758215",
     "squalomix": "PRJNA707598",
     "tbp": "",

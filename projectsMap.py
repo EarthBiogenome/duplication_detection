@@ -27,6 +27,7 @@ projectsMap = {
     "1000gch": "PRJNA1245457",
     "bat1k": "PRJNA489245",
     "i5k": "PRJNA163993",
+    "aegis": "PRJEB80366",
     "africabp": "PRJNA811786",
     "ag100pest": "PRJNA555319",
     "agc": "",
